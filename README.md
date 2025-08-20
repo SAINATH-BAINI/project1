@@ -1,5 +1,5 @@
-🌟 Internship Experience
-**Full Stack Web Development Intern**  
+<h1>🌟 Internship Experience</h1>
+<h2>**Full Stack Web Development Intern** </h2> 
 📍 IntrnForte | Remote | May 2025 – August 2025  
 
 - Completed a **10-week project-based internship** in Full Stack Web Development.  
